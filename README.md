@@ -1,2 +1,2 @@
-# usbbug
-Pendrive conectado e não aparece ou não é reconhecido
+## usbbug
+# Pendrive conectado, não aparece ou não é reconhecido
